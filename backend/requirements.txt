@@ -1,0 +1,13 @@
+fastapi[all]
+requests
+pytest
+httpx
+psycopg2-binary
+boto3
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+matplotlib
+plotly
+mplcursors
+mpld3
